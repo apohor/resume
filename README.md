@@ -136,25 +136,35 @@ Cisco Appliances, Microsoft Windows, Linux, etc.
 * MS PowerShell  
 
 ## Certificates
-[AWS Certified Solutions Architect - Associate](./logos/aws_sa_logo.png)  
+<img src="logos/asaa.png" height="96">  
+[AWS Certified Solutions Architect - Associate](./certificates/ASAA.pdf)  
 Amazon License AWS-ASA-4813, November 2014  
-[Novell Certified Linux Administrator](./logos/ncla_logo.png)  
+<img src="logos/ncla.jpg" height="96">  
+[Novell Certified Linux Administrator](./certificates/NCLA.png)  
 Novell, November 2009  
-[Data Center Technical Specialist](./logos/dcts_logo.png)  
+<img src="logos/dcts.jpg" height="96">  
+[Data Center Technical Specialist](./certificates/DCTS.png)  
 Novell, November 2009  
-[Cisco Certified Network Professional](./logos/ccnp_logo.png)  
+<img src="logos/ccnp.png" height="96">  
+[Cisco Certified Network Professional](./certificates/CCNP.png)  
 Cisco, License 403670571638ILBF, November 2009  
-[Kerio Certified Technical Professional](./logos/kctp_logo.png)  
+<img src="logos/kctp.png" height="96">  
+[Kerio Certified Technical Professional](.certificates/KCTP-KWF.png)  
 Kerio Technologies, July 2011  
-[Microsoft Certified Solutions Associate](./logos/mcsa_logo.png)  
+<img src="logos/mcsassociate.jpg" height="96">  
+[Microsoft Certified Solutions Associate](./certificates/MCSolA.pdf)  
 Microsoft, April 2012  
-[Microsoft Certified IT Professional](./logos/mcitp_logo.png)  
+<img src="logos/mcitp.jpg" height="96">  
+[Microsoft Certified IT Professional](./certificates/MCITP.png)  
 Microsoft, November 2008  
-[Microsoft Certified Systems Administrator - Security](./logos/mcsas_logo.png)  
+<img src="logos/mcsa_sec.jpg" height="96">  
+[Microsoft Certified Systems Administrator - Security](./certificates/MCSA-Security.png)  
 Microsoft ,November 2008  
-[Programming for Everybody (Python)](./logos/cousera_python_logo.png)  
+<img src="logos/python.png" height="96">  
+[Programming for Everybody (Python)](./certificates/CPL.pdf)  
 Coursera, December 2014  
-[Spark - Level 2](./logos/bdu_spark2_logo.png)  
+<img src="logos/spark2.png" height="96">  
+[Spark - Level 2](./certificates/BD0212EN.pdf)  
 Big Data University, December 2016  
 
 ## Honors and Awards
@@ -166,3 +176,8 @@ Softserve, Nov 2013
 Bazaarvoice, Award for a great performance, Oct 2014  
 ### Hackathon 2016 Best Project
 Bazaarvoice, R&D Hackathon 2016, Best Project, Dec 2016
+
+## Presentations and Demos
+[Migration to Docker with AWS ECS](http://www.slideshare.net/pogiant/migration-to-docker-with-ecs)  
+[Log Analytics Story](http://www.slideshare.net/pogiant/loganalyticspublic)  
+[AWS Security Overview](http://www.slideshare.net/pogiant/aws-security-overview-71686235)  
