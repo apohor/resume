@@ -137,7 +137,7 @@ Cisco Appliances, Microsoft Windows, Linux, etc.
 
 ## Certificates
 <img src="logos/asaa.png" height="96">  
-[AWS Certified Solutions Architect - Associate](https://github.com/apogoryelyi/cv/blob/master/certificates/ASAA.pdf)  
+[AWS Certified Solutions Architect - Associate](https://github.com/apogoryelyi/cv/blob/master/certificates/ASAA.pdf),
 Amazon License AWS-ASA-4813, November 2014  
 <img src="logos/ncla.jpg" height="96">  
 [Novell Certified Linux Administrator](https://github.com/apogoryelyi/cv/blob/master/certificates/NCLA.png)  
