@@ -137,34 +137,34 @@ Cisco Appliances, Microsoft Windows, Linux, etc.
 
 ## Certificates
 <img src="logos/asaa.png" height="96">  
-[AWS Certified Solutions Architect - Associate](certificates/ASAA.pdf)  
+[AWS Certified Solutions Architect - Associate](https://github.com/apogoryelyi/cv/blob/master/certificates/ASAA.pdf)  
 Amazon License AWS-ASA-4813, November 2014  
 <img src="logos/ncla.jpg" height="96">  
-[Novell Certified Linux Administrator](certificates/NCLA.png)  
+[Novell Certified Linux Administrator](https://github.com/apogoryelyi/cv/blob/master/certificates/NCLA.png)  
 Novell, November 2009  
 <img src="logos/dcts.jpg" height="96">  
-[Data Center Technical Specialist](certificates/DCTS.png)  
+[Data Center Technical Specialist](https://github.com/apogoryelyi/cv/blob/master/certificates/DCTS.png)  
 Novell, November 2009  
 <img src="logos/ccnp.png" height="96">  
-[Cisco Certified Network Professional](certificates/CCNP.png)  
+[Cisco Certified Network Professional](https://github.com/apogoryelyi/cv/blob/master/certificates/CCNP.png)  
 Cisco, License 403670571638ILBF, November 2009  
 <img src="logos/kctp.png" height="96">  
-[Kerio Certified Technical Professional](certificates/KCTP-KWF.png)  
+[Kerio Certified Technical Professional](https://github.com/apogoryelyi/cv/blob/master/certificates/KCTP-KWF.png)  
 Kerio Technologies, July 2011  
 <img src="logos/mcsassociate.jpg" height="96">  
-[Microsoft Certified Solutions Associate](certificates/MCSolA.pdf)  
+[Microsoft Certified Solutions Associate](https://github.com/apogoryelyi/cv/blob/master/certificates/MCSolA.pdf)  
 Microsoft, April 2012  
 <img src="logos/mcitp.jpg" height="96">  
-[Microsoft Certified IT Professional](certificates/MCITP.png)  
+[Microsoft Certified IT Professional](https://github.com/apogoryelyi/cv/blob/master/certificates/MCITP.png)  
 Microsoft, November 2008  
 <img src="logos/mcsa_sec.jpg" height="96">  
-[Microsoft Certified Systems Administrator - Security](certificates/MCSA-Security.png)  
+[Microsoft Certified Systems Administrator - Security](https://github.com/apogoryelyi/cv/blob/master/certificates/MCSA-Security.png)  
 Microsoft ,November 2008  
 <img src="logos/python.png" height="96">  
-[Programming for Everybody (Python)](certificates/CPL.pdf)  
+[Programming for Everybody (Python)](https://github.com/apogoryelyi/cv/blob/master/certificates/CPL.pdf)  
 Coursera, December 2014  
 <img src="logos/spark2.png" height="96">  
-[Spark - Level 2](certificates/BD0212EN.pdf)  
+[Spark - Level 2](https://github.com/apogoryelyi/cv/blob/master/certificates/BD0212EN.pdf)  
 Big Data University, December 2016  
 
 ## Honors and Awards
