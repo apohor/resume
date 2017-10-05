@@ -168,9 +168,9 @@ Coursera, December 2014
 Big Data University, December 2016  
 
 ## Honors and Awards
-### Best Speaker @ [Pacemaker: Ops Conference](http://pacemaker.in.ua/ops-2012/about)
+### Best Speaker @ [Pacemaker: Ops Conference](http://www.pacemaker.in.ua/OPS-2012/about)
 Softserve, Dec 2012
-### Best Speaker @ [Pacemaker: Cloud Conference](http://pacemaker.in.ua/cloud-2013/about)
+### Best Speaker @ [Pacemaker: Cloud Conference](http://www.pacemaker.in.ua/Cloud-2013/about)
 Softserve, Nov 2013
 ### B: Heroic Award
 Bazaarvoice, Award for a great performance, Oct 2014  
