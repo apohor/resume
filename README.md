@@ -5,7 +5,7 @@
 * e-mail: me@apoh.ml
 
 ## Summary
-I have more than 10 years of experience in IT. My main knowledge and experience areas are: network, systems and database administration, cloud technologies, scripting, high load web services design, maintenance, monitoring and support, deployment process automation, big data tools and issues troubleshooting.
+I have 15 years of experience in IT. My areas of expertise are: systems, network, and database administration; cloud technologies; infrastructure automation; high load web services design, maintenance, monitoring and support; continuous integration and deployment; serverless computing, big data and machine learning.
 
 ## Education
 **Kyiv National Economics University**  
@@ -91,6 +91,14 @@ Aug 2005 - Nov 2010
 
 #### Tools and technologies:
 Cisco Appliances, Microsoft Windows, Linux, etc.
+
+### _System Administrator_ @ [Kvazar-Micro](http://www.kmcore.com/en)
+Dnipro, Ukraine  
+Aug 2004 - Nov 2005
+#### Project: IT
+#### Key Deliverables:
+* Systems administration and network support
+
 
 ## Skills
 ### Software Development Methodologies:
