@@ -125,6 +125,7 @@ Aug 2004 - Nov 2005
 * Orchestration: Rundeck, MCollective, Kubernetes
 * Log management and analysis: Rsyslog, Splunk, Sumo Logic, Logstash
 * AWS Cloud: EC2, VPC, S3, CloudFormation, CloudWatch, SNS, SQS, Route53, ECS, RDS, EMR, DataPipeline, CodeDeploy, Lambda
+* Google Cloud: Compute Engine, App Engine, Kubernetes Engine, Cloud Storage, Cloud Datastore, Stackdriver
 * Search Engines: Solr, Elasticsearch
 * Discovery services: Consul, Etcd, Zookeeper
 * Big Data Tools: Kafka, Storm, Spark, Hadoop, Hive
@@ -152,30 +153,31 @@ Amazon License AWS-ASA-4813, November 2014
 <img src="logos/asaa.png" height="96">  
 [Novell Certified Linux Administrator](https://github.com/apogoryelyi/cv/blob/master/certificates/NCLA.png)  
 Novell, November 2009  
-<img src="logos/dcts.jpg" height="96">  
+<img src="logos/ncla.jpg" height="96">  
 [Data Center Technical Specialist](https://github.com/apogoryelyi/cv/blob/master/certificates/DCTS.png)  
 Novell, November 2009  
-<img src="logos/ccnp.png" height="96">  
+<img src="logos/dcts.jpg" height="96">  
 [Cisco Certified Network Professional](https://github.com/apogoryelyi/cv/blob/master/certificates/CCNP.png)  
 Cisco, License 403670571638ILBF, November 2009  
-<img src="logos/kctp.png" height="96">  
+<img src="logos/ccnp.png" height="96">  
 [Kerio Certified Technical Professional](https://github.com/apogoryelyi/cv/blob/master/certificates/KCTP-KWF.png)  
 Kerio Technologies, July 2011  
-<img src="logos/mcsassociate.jpg" height="96">  
+<img src="logos/kctp.png" height="96">  
 [Microsoft Certified Solutions Associate](https://github.com/apogoryelyi/cv/blob/master/certificates/MCSolA.pdf)  
 Microsoft, April 2012  
-<img src="logos/mcitp.jpg" height="96">  
+<img src="logos/mcsassociate.jpg" height="96">  
 [Microsoft Certified IT Professional](https://github.com/apogoryelyi/cv/blob/master/certificates/MCITP.png)  
 Microsoft, November 2008  
-<img src="logos/mcsa_sec.jpg" height="96">  
+<img src="logos/mcitp.jpg" height="96">  
 [Microsoft Certified Systems Administrator - Security](https://github.com/apogoryelyi/cv/blob/master/certificates/MCSA-Security.png)  
 Microsoft ,November 2008  
-<img src="logos/python.png" height="96">  
+<img src="logos/mcsa_sec.jpg" height="96">  
 [Programming for Everybody (Python)](https://github.com/apogoryelyi/cv/blob/master/certificates/CPL.pdf)  
 Coursera, December 2014  
-<img src="logos/spark2.png" height="96">  
+<img src="logos/python.png" height="96">  
 [Spark - Level 2](https://github.com/apogoryelyi/cv/blob/master/certificates/BD0212EN.pdf)  
 Big Data University, December 2016  
+<img src="logos/spark2.png" height="96">  
 
 ## Honors and Awards
 ### Best Speaker @ [Pacemaker: Ops Conference](http://www.pacemaker.in.ua/OPS-2012/about)
