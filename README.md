@@ -144,10 +144,12 @@ Aug 2004 - Nov 2005
 * MS PowerShell  
 
 ## Certificates
-<img src="logos/asaa.png" height="96">  
+[Google Cloud Certified Cloud Architect - Professional](https://github.com/apogoryelyi/cv/blob/master/certificates/GCP.pdf)  
+Google Cloud, License 11592441, May 2018  
+<img src="logos/gcp.png" height="96">  
 [AWS Certified Solutions Architect - Associate](https://github.com/apogoryelyi/cv/blob/master/certificates/ASAA.pdf)  
 Amazon License AWS-ASA-4813, November 2014  
-<img src="logos/ncla.jpg" height="96">  
+<img src="logos/asaa.png" height="96">  
 [Novell Certified Linux Administrator](https://github.com/apogoryelyi/cv/blob/master/certificates/NCLA.png)  
 Novell, November 2009  
 <img src="logos/dcts.jpg" height="96">  
