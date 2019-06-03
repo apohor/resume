@@ -2,10 +2,10 @@
 
 ## Contact Info
 * phone: 239-223-5635
-* e-mail: me@apoh.ml
+* e-mail: anton.pohorilyi@gmail.com
 
 ## Summary
-I have 15 years of experience in IT. My areas of expertise are: systems, network, and database administration; cloud technologies; infrastructure automation; high load web services design, maintenance, monitoring and support; continuous integration and deployment; serverless computing, big data and machine learning.
+DevOps believer. Cloud architect that sometimes makes right decisions. Engineer that sometimes makes useful implementations. A man that learns from wrong decisions and implementations. DevOps expert that knows for sure: reliability, scalability, and maintainability are not just words. 
 
 ## Education
 **Kyiv National Economics University**  
@@ -26,7 +26,35 @@ Nov 2004 - Dec 2004
 ## Experience
 ### _DevOps Architect_ @ [Softserve Inc.](https://softserveinc.com)  
 Austin, TX, USA  
-Mar 2016 - Present  
+Sep 2018 - Jun 2019  
+#### Project: Cloud Plaftorms Partnership
+#### Key Deliverables:
+* Proposals preparation with all different parties, stakeholders and workflows 
+* Estimation and scope decomposition 
+* Risk assessment, defining dependencies and assumptions 
+* Technical specifications and architecture vision document creation 
+* Technology assessments and comparisons 
+* Participation in discovery phases and workshops covering
+
+#### Tools and technologies:
+GCP, Terraform, Kubernetes, Istio, JenkinsX, Vault
+
+### _DevOps Architect_ @ [Softserve Inc.](https://softserveinc.com)  
+Austin, TX, USA  
+Sep 2018 - Jun 2019  
+#### Project: Single Sign-On Enterprise Platform
+#### Key Deliverables:
+* New CI/CD Pipelines design;
+* Transform to Infrastructure as a Code model;
+* Infrastructure assasement and improvements recommendations;
+* Service Mesh improvements.
+
+#### Tools and technologies:
+AWS, Terraform, Kubernetes, Linkerd, Cassandra, Kafka, Jenkins, Vault
+
+### _DevOps Architect_ @ [Softserve Inc.](https://softserveinc.com)  
+Austin, TX, USA  
+Mar 2016 - Sep 2018  
 #### Project: Recommendations and Advertising Platform
 #### Key Deliverables:
 * Big data jobs automation via Data Pipeline;
@@ -115,14 +143,16 @@ Aug 2004 - Nov 2005
 * Networking: strong TCP/IP knowledge
 * Application services: Tomcat, Dropwizard
 * Security services: OpenVPN, VNC, OpenSwan, SSH, SSL
-* Virtualization/container platforms: Vmware, Hyper-V, Xen, Vserver, Docker, CoreOS Rkt
+* Virtualization/container platforms: Vmware, Hyper-V, Xen, Vserver
 * Security appliances: Cisco PIX, Cisco ASA, F5 LB
 * HA/Load balancing: F5 LB, HAProxy, Nginx, MysqlProxy, AWS ELBs
 * CI: Hudson/Jenkins, TeamCity
 * Version Control: SVN, Git
 * Monitoring: Nagios, Zabbix, Datadog
 * Automation: Puppet
-* Orchestration: Rundeck, MCollective, Kubernetes
+* Orchestration: Rundeck, MCollective
+* Containers: Docker, Kubernetes, CoreOS Rkt
+* Service Mesh: Linkerd, Istio
 * Log management and analysis: Rsyslog, Splunk, Sumo Logic, Logstash
 * AWS Cloud: EC2, VPC, S3, CloudFormation, CloudWatch, SNS, SQS, Route53, ECS, RDS, EMR, DataPipeline, CodeDeploy, Lambda
 * Google Cloud: Compute Engine, App Engine, Kubernetes Engine, Cloud Storage, Cloud Datastore, Stackdriver
