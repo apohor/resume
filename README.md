@@ -2,7 +2,7 @@
 
 ## Contact Info
 * phone: 239-223-5635
-* e-mail: anton.pohorilyi@gmail.com
+* e-mail: pogiant@gmail.com
 
 ## Summary
 DevOps believer. Cloud architect that sometimes makes right decisions. Engineer that sometimes makes useful implementations. A man that learns from wrong decisions and implementations. DevOps expert that knows for sure: reliability, scalability, and maintainability are not just words. 
