@@ -218,6 +218,11 @@ Softserve, Nov 2013
 Bazaarvoice, Award for a great performance, Oct 2014  
 ### Hackathon 2016 Best Project
 Bazaarvoice, R&D Hackathon 2016, Best Project, Dec 2016
+### Software Architecture Award - 2018
+Softserve, Unit A3, Dec 2018
+### Software Architecture Award - 2019
+Softserve, Unit A3, Dec 2019
+
 
 ## Presentations and Demos
 [Migration to Docker with AWS ECS](http://www.slideshare.net/pogiant/migration-to-docker-with-ecs)  
