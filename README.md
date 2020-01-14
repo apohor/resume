@@ -32,6 +32,7 @@ Jun 2019 - Current
 * Secrets management redesign;
 * Infrastructure performace improvements;
 * Infrastructure change promotion redesign;
+* Infrastructure monitoring implementation;
 * CI/CD pipeline redesign and implementation;
 * Database sharding with Vitess;
 * DevOps team bootstrap.
