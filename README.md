@@ -222,10 +222,10 @@ Coursera, December 2014
 <img src="logos/python.png" height="96">  
 [Spark - Level 2](https://github.com/apogoryelyi/cv/blob/master/certificates/BD0212EN.pdf)  
 Big Data University, December 2016  
-<img src="logos/spark2.png" height="96">
-[HashiCorp Certified: Terraform Associate](https://www.youracclaim.com/badges/ee4a680e-affd-4127-a3c7-547a8171b059)
-HashiCorp, September 2019
-<img src="logos/hashicorp-certified-terraform-associate.png" height="96">
+<img src="logos/spark2.png" height="96">  
+[HashiCorp Certified: Terraform Associate](https://www.youracclaim.com/badges/ee4a680e-affd-4127-a3c7-547a8171b059)  
+HashiCorp, September 2019  
+<img src="logos/hashicorp-certified-terraform-associate.png" height="96">  
 
 ## Honors and Awards
 ### Best Speaker @ [Pacemaker: Ops Conference](http://www.pacemaker.in.ua/OPS-2012/about)
