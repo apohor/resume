@@ -29,8 +29,9 @@ Austin, TX, USA
 Jun 2019 - Current
 #### Project: International Real Estate Franchise
 #### Key Deliverables:
-* Infrastructure improvements;
-* API Gateway improvements;
+* Secrets management redesign;
+* Infrastructure performace improvements;
+* Infrastructure change promotion redesign;
 * CI/CD pipeline redesign and implementation;
 * Database sharding with Vitess;
 * DevOps team bootstrap.
@@ -121,7 +122,7 @@ Dec 2010 - May 2013
 #### Tools and technologies:
 AWS EC2, MySQL, Tomcat, HAProxy, Java applications, Bash, Puppet, Rsyslog
 
-### _Instructor_ @ [IT Academy "Step"](https://itstep.org)
+### _Instructor_ @ [IT Academy "Step"](https://itstep.org/en)
 Dnipro, Ukraine  
 Aug 2005 - Nov 2010
 #### Project: Private Education
