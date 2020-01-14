@@ -26,18 +26,32 @@ Nov 2004 - Dec 2004
 ## Experience
 ### _DevOps Architect_ @ [Softserve Inc.](https://softserveinc.com)  
 Austin, TX, USA  
+Jun 2019 - Current
+#### Project: International Real Estate Franchise
+#### Key Deliverables:
+* Infrastructure improvements;
+* API Gateway improvements;
+* CI/CD pipeline redesign and implementation;
+* Database sharding with Vitess;
+* DevOps team bootstrap.
+
+#### Tools and technologies:
+GCP, Terraform, Vault, Kubernetes, Kong, CircleCI, Spinnaker, Vault, LightStep
+
+### _DevOps Architect_ @ [Softserve Inc.](https://softserveinc.com)  
+Austin, TX, USA  
 Sep 2018 - Jun 2019  
 #### Project: Cloud Plaftorms Partnership
 #### Key Deliverables:
-* Proposals preparation with all different parties, stakeholders and workflows 
-* Estimation and scope decomposition 
-* Risk assessment, defining dependencies and assumptions 
-* Technical specifications and architecture vision document creation 
-* Technology assessments and comparisons 
-* Participation in discovery phases and workshops covering
+* Proposals preparation with all different parties, stakeholders and workflows;
+* Estimation and scope decomposition;
+* Risk assessment, defining dependencies and assumptions;
+* Technical specifications and architecture vision document creation;
+* Technology assessments and comparisons;
+* Participation in discovery phases and workshops covering.
 
 #### Tools and technologies:
-GCP, Terraform, Kubernetes, Istio, JenkinsX, Vault
+GCP, Terraform, Kubernetes, Istio, Jenkins X, Helm, Vault
 
 ### _DevOps Architect_ @ [Softserve Inc.](https://softserveinc.com)  
 Austin, TX, USA  
@@ -45,7 +59,7 @@ Sep 2018 - Jun 2019
 #### Project: Single Sign-On Enterprise Platform
 #### Key Deliverables:
 * New CI/CD Pipelines design;
-* Transform to Infrastructure as a Code model;
+* Transform to Infrastructure as a Code (IaaC) model;
 * Infrastructure assasement and improvements recommendations;
 * Service Mesh improvements.
 
@@ -142,16 +156,17 @@ Aug 2004 - Nov 2005
 * Core system services: Active Directory, LDAP, DNS, DHCP, WINS, FTP, Samba, NFS, Squid, Postfix, etc.
 * Networking: strong TCP/IP knowledge
 * Application services: Tomcat, Dropwizard
-* Security services: OpenVPN, VNC, OpenSwan, SSH, SSL
+* Security services: OpenVPN, VNC, OpenSwan, SSH, SSL, Vault
 * Virtualization/container platforms: Vmware, Hyper-V, Xen, Vserver
 * Security appliances: Cisco PIX, Cisco ASA, F5 LB
 * HA/Load balancing: F5 LB, HAProxy, Nginx, MysqlProxy, AWS ELBs
-* CI: Hudson/Jenkins, TeamCity
+* CI/CD: Hudson/Jenkins, TeamCity, GitLab, CircleCI, Travis CI, Spinnaker
 * Version Control: SVN, Git
-* Monitoring: Nagios, Zabbix, Datadog
-* Automation: Puppet
+* Monitoring: Nagios, Zabbix, Datadog, New Relic, LightStep
+* Automation: Puppet, Salt
 * Orchestration: Rundeck, MCollective
-* Containers: Docker, Kubernetes, CoreOS Rkt
+* Containers: Docker, Kubernetes, Helm, CoreOS Rkt
+* IaaC: AWS CloudFormation, Terraform
 * Service Mesh: Linkerd, Istio
 * Log management and analysis: Rsyslog, Splunk, Sumo Logic, Logstash
 * AWS Cloud: EC2, VPC, S3, CloudFormation, CloudWatch, SNS, SQS, Route53, ECS, RDS, EMR, DataPipeline, CodeDeploy, Lambda
@@ -207,7 +222,10 @@ Coursera, December 2014
 <img src="logos/python.png" height="96">  
 [Spark - Level 2](https://github.com/apogoryelyi/cv/blob/master/certificates/BD0212EN.pdf)  
 Big Data University, December 2016  
-<img src="logos/spark2.png" height="96">  
+<img src="logos/spark2.png" height="96">
+[HashiCorp Certified: Terraform Associate](https://www.youracclaim.com/badges/ee4a680e-affd-4127-a3c7-547a8171b059)
+HashiCorp, September 2019
+<img src="logos/hashicorp-certified-terraform-associate.png" height="96">
 
 ## Honors and Awards
 ### Best Speaker @ [Pacemaker: Ops Conference](http://www.pacemaker.in.ua/OPS-2012/about)
