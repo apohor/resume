@@ -5,7 +5,7 @@
 * e-mail: pogiant@gmail.com
 
 ## Summary
-DevOps believer. Cloud architect that sometimes makes right decisions. Engineer that sometimes makes useful implementations. A man that learns from wrong decisions and implementations. DevOps expert that knows for sure: reliability, scalability, and maintainability are not just words. 
+Platform architect with strong infrastructure and cloud background. DevOps, SRE and cloud-native practices and principles believer. A passionate leader that builds and guides teams to solve complex problems.
 
 ## Education
 **Kyiv National Economics University**  
@@ -14,14 +14,9 @@ Kyiv, Ukraine
 Sep 1997 - Jun 2002  
 
 **Kvazar-Micro Education Centre**  
-Microsoft Learning Courses  
+IT Learning Courses  
 Kyiv, Ukraine  
-Mar 2004 - Nov 2004  
-
-**Kvazar-Micro Education Centre**  
-Oracle Learning Courses  
-Kyiv, Ukraine  
-Nov 2004 - Dec 2004
+Mar 2004 - Dec 2004  
 
 ## Experience
 ### _DevOps Architect_ @ [Softserve Inc.](https://softserveinc.com)  
@@ -29,13 +24,13 @@ Austin, TX, USA
 Jun 2019 - Current
 #### Project: International Real Estate Franchise
 #### Key Deliverables:
+* Build, mentor and guide DevOps team;
 * Secrets management redesign;
 * Infrastructure performace improvements;
 * Infrastructure change promotion redesign;
 * Infrastructure monitoring implementation;
 * CI/CD pipeline redesign and implementation;
-* Database sharding with Vitess;
-* DevOps team bootstrap.
+* Database sharding with Vitess.
 
 #### Tools and technologies:
 GCP, Terraform, Vault, Kubernetes, Kong, CircleCI, Spinnaker, Vault, LightStep
@@ -80,7 +75,7 @@ Mar 2016 - Sep 2018
 * Performance tuning.
 
 #### Tools and technologies:
-AWS EMR, Data Pipeline, CodeDeploy, etc.; Cassandra, Storm, Kafka, Spark, CoreOS Rkt, Docker, Jenkins, Scala
+AWS, Cassandra, Storm, Kafka, Spark, CoreOS Rkt, Docker, Jenkins, Scala
 
 ### _DevOps TechLead_ @ [Softserve Inc.](https://softserveinc.com)
 Dnipro, Ukraine - Austin, TX, USA  
@@ -155,22 +150,23 @@ Aug 2004 - Nov 2005
 * Solaris OS
 
 ### DevOps Tools:
-* Core system services: Active Directory, LDAP, DNS, DHCP, WINS, FTP, Samba, NFS, Squid, Postfix, etc.
+* Core system services: LDAP, DNS, DHCP, WINS, FTP, Samba, NFS, Squid, Postfix, etc.
 * Networking: strong TCP/IP knowledge
 * Application services: Tomcat, Dropwizard
 * Security services: OpenVPN, VNC, OpenSwan, SSH, SSL, Vault
 * Virtualization/container platforms: Vmware, Hyper-V, Xen, Vserver
 * Security appliances: Cisco PIX, Cisco ASA, F5 LB
 * HA/Load balancing: F5 LB, HAProxy, Nginx, MysqlProxy, AWS ELBs
-* CI/CD: Hudson/Jenkins, TeamCity, GitLab, CircleCI, Travis CI, Spinnaker
+* CI/CD: Hudson/Jenkins, TeamCity, GitLab, CircleCI, Travis CI, Spinnaker, Jenkins X
 * Version Control: SVN, Git
 * Monitoring: Nagios, Zabbix, Datadog, New Relic, LightStep
 * Automation: Puppet, Salt
 * Orchestration: Rundeck, MCollective
-* Containers: Docker, Kubernetes, Helm, CoreOS Rkt
+* Containers: Docker, Kubernetes, Helm, Kustomize, CoreOS Rkt
 * IaaC: AWS CloudFormation, Terraform
 * Service Mesh: Linkerd, Istio
-* Log management and analysis: Rsyslog, Splunk, Sumo Logic, Logstash
+* API Gateways: Kong, Apigee, AWS API Gateway
+* Log management and analysis: Rsyslog, Splunk, Sumo Logic, Elastic Stack
 * AWS Cloud: EC2, VPC, S3, CloudFormation, CloudWatch, SNS, SQS, Route53, ECS, RDS, EMR, DataPipeline, CodeDeploy, Lambda
 * Google Cloud: Compute Engine, App Engine, Kubernetes Engine, Cloud Storage, Cloud Datastore, Stackdriver
 * Search Engines: Solr, Elasticsearch
