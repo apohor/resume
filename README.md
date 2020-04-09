@@ -140,31 +140,31 @@ Aug 2004 - Nov 2005
 
 
 ## Skills
-### Software Development Methodologies:
+### Software Development Methodologies
 * Kanban, Agile, Scrum, XP
 * DevOps
 
-### Operating Systems:
+### Operating Systems
 * Microsoft Windows Server NT - 2008R2
 * Linux
 * Solaris OS
 
-### DevOps Tools:
+### DevOps Tools
 * Core system services: LDAP, DNS, DHCP, WINS, FTP, Samba, NFS, Squid, Postfix, etc.
 * Networking: strong TCP/IP knowledge
 * Application services: Tomcat, Dropwizard
 * Security services: OpenVPN, VNC, OpenSwan, SSH, SSL, Vault
-* Virtualization/container platforms: Vmware, Hyper-V, Xen, Vserver
+* Virtualization platforms: Vmware, Hyper-V, Xen, Vserver
 * Security appliances: Cisco PIX, Cisco ASA, F5 LB
 * HA/Load balancing: F5 LB, HAProxy, Nginx, MysqlProxy, AWS ELBs
-* CI/CD: Hudson/Jenkins, TeamCity, GitLab, CircleCI, Travis CI, Spinnaker, Jenkins X
+* CI/CD: Jenkins, TeamCity, GitLab, CircleCI, Travis CI, Spinnaker, Jenkins X
 * Version Control: SVN, Git
 * Monitoring: Nagios, Zabbix, Datadog, New Relic, LightStep
 * Automation: Puppet, Salt
 * Orchestration: Rundeck, MCollective
 * Containers: Docker, Kubernetes, Helm, Kustomize, CoreOS Rkt
 * IaaC: AWS CloudFormation, Terraform
-* Service Mesh: Linkerd, Istio
+* Service Mesh: Linkerd, Istio, Kuma
 * API Gateways: Kong, Apigee, AWS API Gateway
 * Log management and analysis: Rsyslog, Splunk, Sumo Logic, Elastic Stack
 * AWS Cloud: EC2, VPC, S3, CloudFormation, CloudWatch, SNS, SQS, Route53, ECS, RDS, EMR, DataPipeline, CodeDeploy, Lambda
@@ -173,7 +173,7 @@ Aug 2004 - Nov 2005
 * Discovery services: Consul, Etcd, Zookeeper
 * Big Data Tools: Kafka, Storm, Spark, Hadoop, Hive
 
-### Databases:
+### Databases
 * MS SQL Server 2000/2005
 * MySQL
 * PostgreSQL
@@ -181,11 +181,12 @@ Aug 2004 - Nov 2005
 * MongoDB
 * Redis
 
-### Scripting:
-* Bash
-* Python
-* Ruby
-* MS PowerShell  
+### Languages
+### Coding
+* Bash/Python/Ruby
+
+### Debugging
+* Java/Scala/Go/JS/PHP
 
 ## Certificates
 [Google Cloud Certified Cloud Architect - Professional](https://github.com/apogoryelyi/cv/blob/master/certificates/GCP.pdf)  
