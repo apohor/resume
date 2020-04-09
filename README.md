@@ -3,6 +3,7 @@
 ## Contact Info
 * phone: 239-223-5635
 * e-mail: pogiant@gmail.com
+* skype: pogiant
 
 ## Summary
 Platform architect with strong infrastructure and cloud background. DevOps, SRE and cloud-native practices and principles believer. A passionate leader that builds and guides teams to solve complex problems.
