@@ -20,9 +20,13 @@ Kyiv, Ukraine
 Mar 2004 - Dec 2004  
 
 ## Experience
+### _Sr. DevOps/SRE Engineer: AI Infrastructure_ @ [Intel Corporation](https://intel.com)  
+Austin, TX, USA  
+May 2020 - Current
+
 ### _DevOps Architect_ @ [Softserve Inc.](https://softserveinc.com)  
 Austin, TX, USA  
-Jun 2019 - Current
+Jun 2019 - May 2020
 #### Project: International Real Estate Franchise
 #### Key Deliverables:
 * Build, mentor and guide DevOps team;
