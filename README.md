@@ -196,8 +196,10 @@ Aug 2004 - Nov 2005
 ## Certificates
 [Software Architecture Principles and Practices](https://github.com/apogoryelyi/cv/blob/master/certificates/SAPP_Completion Certificate v1.pdf)
 SEI SAPP, Carnegie Mellon University, Jul 2019
+<img src="logos/sei.png" height="96">  
 [Documenting Software Architectures](https://github.com/apogoryelyi/cv/blob/master/certificates/SEI_DSA_Completion Certificate v1.pdf)
 SEI DSA, Carnegie Mellon University, Aug 2019
+<img src="logos/sei.png" height="96">  
 [Google Cloud Certified Cloud Architect - Professional](https://github.com/apogoryelyi/cv/blob/master/certificates/GCP.pdf)  
 Google Cloud, License 11592441, May 2018  
 <img src="logos/gcp.png" height="96">  
