@@ -30,11 +30,11 @@ Jun 2019 - May 2020
 #### Project: International Real Estate Franchise
 #### Key Deliverables:
 * Build, mentor and guide DevOps team;
-* Secrets management redesign;
 * Infrastructure performace improvements;
+* Secrets management solution design;
 * Infrastructure change promotion redesign;
 * Infrastructure monitoring implementation;
-* CI/CD pipeline redesign and implementation;
+* CI/CD pipeline design and implementation;
 * Database sharding with Vitess.
 
 #### Tools and technologies:
@@ -194,6 +194,10 @@ Aug 2004 - Nov 2005
 * Java/Scala/Go/JS/PHP
 
 ## Certificates
+[Software Architecture Principles and Practices](https://github.com/apogoryelyi/cv/blob/master/certificates/SAPP_Completion Certificate v1.pdf)
+SEI SAPP, Carnegie Mellon University, Jul 2019
+[Documenting Software Architectures](https://github.com/apogoryelyi/cv/blob/master/certificates/SEI_DSA_Completion Certificate v1.pdf)
+SEI DSA, Carnegie Mellon University, Aug 2019
 [Google Cloud Certified Cloud Architect - Professional](https://github.com/apogoryelyi/cv/blob/master/certificates/GCP.pdf)  
 Google Cloud, License 11592441, May 2018  
 <img src="logos/gcp.png" height="96">  
