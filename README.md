@@ -164,8 +164,8 @@ Aug 2004 - Nov 2005
 * HA/Load balancing: F5 LB, HAProxy, Nginx, MysqlProxy, AWS ELBs
 * CI/CD: Jenkins, TeamCity, GitLab, CircleCI, Travis CI, Spinnaker, Jenkins X
 * Version Control: SVN, Git
-* Monitoring: Nagios, Zabbix, Datadog, New Relic, LightStep
-* Automation: Puppet, Salt
+* Monitoring: Nagios, Zabbix, Datadog, New Relic, LightStep, Prometheus
+* Automation: Puppet, Salt, Ansible
 * Orchestration: Rundeck, MCollective
 * Containers: Docker, Kubernetes, Helm, Kustomize, CoreOS Rkt
 * IaaC: AWS CloudFormation, Terraform
@@ -177,6 +177,7 @@ Aug 2004 - Nov 2005
 * Search Engines: Solr, Elasticsearch
 * Discovery services: Consul, Etcd, Zookeeper
 * Big Data Tools: Kafka, Storm, Spark, Hadoop, Hive
+* Bare Metal Automation: MaaS, Juju, MetalLB
 
 ### Databases
 * MS SQL Server 2000/2005
