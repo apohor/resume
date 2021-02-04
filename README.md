@@ -1,7 +1,7 @@
 # Anton Pohorilyi
 
 ## Contact Info
-* phone: 522-243-4639
+* phone: 512-243-4639
 * e-mail: pogiant@gmail.com
 * skype: pogiant
 
@@ -23,6 +23,17 @@ Mar 2004 - Dec 2004
 ### _Sr. DevOps/SRE Engineer: AI Infrastructure_ @ [Intel Corporation](https://intel.com)  
 Austin, TX, USA  
 May 2020 - Current
+#### Project: Scalable AI Cluster BuildUp
+#### Key Deliverables:
+* On-prem infrastructure deployment;
+* Core network infrastructure design;
+* CI/CD infrastructure design and implementation;
+* Secrets management solution design;
+* Kubernetes clusters deployment.
+
+#### Tools and technologies:
+MaaS, Ansible, Kubernetes, Jenkins X, Vault
+
 
 ### _DevOps Architect_ @ [Softserve Inc.](https://softserveinc.com)  
 Austin, TX, USA  
@@ -38,7 +49,7 @@ Jun 2019 - May 2020
 * Database sharding with Vitess.
 
 #### Tools and technologies:
-GCP, Terraform, Vault, Kubernetes, Kong, CircleCI, Spinnaker, Vault, LightStep
+GCP, Terraform, Kubernetes, Kong, CircleCI, Spinnaker, Vault, LightStep
 
 ### _DevOps Architect_ @ [Softserve Inc.](https://softserveinc.com)  
 Austin, TX, USA  
