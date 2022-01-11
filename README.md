@@ -1,7 +1,7 @@
 # Anton Pohorilyi
 
 ## Contact Info
-* phone: 512-243-4639
+* phone: 737-280-6309
 * e-mail: pogiant@gmail.com
 * skype: pogiant
 
@@ -20,10 +20,26 @@ Kyiv, Ukraine
 Mar 2004 - Dec 2004  
 
 ## Experience
+### _Staff Infrastructure Engineer: TechLead_ @ [OJO Labs](https://ojolabs.com)  
+Austin, TX, USA  
+February 2020 - Current
+#### Project: Core Infrastructure
+#### Key Deliverables:
+* New core infrastructure buildup and migration;
+* Monitoring refactoring;
+* Best practices IaC design and implementation;
+* CI/CD infrastructure design and implementation;
+* Secrets management solution design and implementation;
+* Kubernetes clusters management.
+
+#### Tools and technologies:
+AWS, Kubernetes, Terraform, Helm, GitLab, Datadog, Vault
+
+
 ### _Sr. DevOps/SRE Engineer: AI Infrastructure_ @ [Intel Corporation](https://intel.com)  
 Austin, TX, USA  
-May 2020 - Current
-#### Project: Scalable AI Cluster BuildUp
+May 2020 - February 2020
+#### Project: Scalable AI Cluster Buildup
 #### Key Deliverables:
 * On-prem infrastructure deployment;
 * Core network infrastructure design;
