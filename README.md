@@ -3,10 +3,9 @@
 ## Contact Info
 * phone: 737-280-6309
 * e-mail: pogiant@gmail.com
-* skype: pogiant
 
 ## Summary
-Platform architect with strong infrastructure and cloud background. DevOps, SRE and cloud-native practices and principles believer. A passionate leader that builds and guides teams to solve complex problems.
+Platform architect with strong infrastructure and cloud background. DevOps, SRE and cloud-native practices and principles believer, passionate leader that builds and guides teams to solve complex problems.
 
 ## Education
 **Kyiv National Economics University**  
@@ -25,7 +24,7 @@ Austin, TX, USA
 February 2020 - Current
 #### Project: Core Infrastructure
 #### Key Deliverables:
-* New core infrastructure buildup and migration;
+* New core infrastructure design, buildup and migration;
 * Monitoring refactoring;
 * Best practices IaC design and implementation;
 * CI/CD infrastructure design and implementation;
@@ -215,7 +214,7 @@ Aug 2004 - Nov 2005
 * Redis
 
 ### Languages
-### Coding
+### Scripting
 * Bash/Python/Ruby
 
 ### Debugging
@@ -237,9 +236,6 @@ Amazon License AWS-ASA-4813, November 2014
 [Novell Certified Linux Administrator](https://github.com/apogoryelyi/cv/blob/master/certificates/NCLA.png)  
 Novell, November 2009  
 <img src="logos/ncla.jpg" height="96">  
-[Data Center Technical Specialist](https://github.com/apogoryelyi/cv/blob/master/certificates/DCTS.png)  
-Novell, November 2009  
-<img src="logos/dcts.jpg" height="96">  
 [Cisco Certified Network Professional](https://github.com/apogoryelyi/cv/blob/master/certificates/CCNP.png)  
 Cisco, License 403670571638ILBF, November 2009  
 <img src="logos/ccnp.png" height="96">  
@@ -249,9 +245,6 @@ Kerio Technologies, July 2011
 [Microsoft Certified Solutions Associate](https://github.com/apogoryelyi/cv/blob/master/certificates/MCSolA.pdf)  
 Microsoft, April 2012  
 <img src="logos/mcsassociate.jpg" height="96">  
-[Microsoft Certified IT Professional](https://github.com/apogoryelyi/cv/blob/master/certificates/MCITP.png)  
-Microsoft, November 2008  
-<img src="logos/mcitp.jpg" height="96">  
 [Microsoft Certified Systems Administrator - Security](https://github.com/apogoryelyi/cv/blob/master/certificates/MCSA-Security.png)  
 Microsoft ,November 2008  
 <img src="logos/mcsa_sec.jpg" height="96">  
@@ -273,15 +266,8 @@ Softserve, Nov 2013
 ### B: Heroic Award
 Bazaarvoice, Award for a great performance, Oct 2014  
 ### Hackathon 2016 Best Project
-Bazaarvoice, R&D Hackathon 2016, Best Project, Dec 2016
+R&D Hackathon, Best Project, Dec 2016
 ### Software Architecture Award - 2018
 Softserve, Unit A3, Dec 2018
 ### Software Architecture Award - 2019
 Softserve, Unit A3, Dec 2019
-
-
-## Presentations and Demos
-[Migration to Docker with AWS ECS](http://www.slideshare.net/pogiant/migration-to-docker-with-ecs)  
-[Log Analytics Story](http://www.slideshare.net/pogiant/loganalyticspublic)  
-[AWS Security Overview](http://www.slideshare.net/pogiant/aws-security-overview-71686235)  
-[AWS at Scale](https://www.slideshare.net/pogiant/aws-at-scale)
