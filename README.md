@@ -112,6 +112,7 @@ Nov 2014 - Mar 2016
 * Docker infrastructure design and implementation;
 * Services migration to Docker;
 * Data/Indexing stack management;
+* Monitoring refactoring;
 * Performance testing framework build;
 * Deployment automation.
 
