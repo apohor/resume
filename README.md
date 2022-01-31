@@ -10,13 +10,11 @@ Platform architect with strong infrastructure and cloud background. DevOps, SRE 
 ## Education
 **Kyiv National Economics University**  
 Master Degree in Law  
-Kyiv, Ukraine  
-Sep 1997 - Jun 2002  
+Kyiv, Ukraine, Sep 1997 - Jun 2002  
 
 **Kvazar-Micro Education Centre**  
-IT Learning Courses  
-Kyiv, Ukraine  
-Mar 2004 - Dec 2004  
+IT Courses  
+Kyiv, Ukraine, Mar 2004 - Dec 2004  
 
 ## Experience
 ### _Staff Infrastructure Engineer: TechLead_ @ [OJO Labs](https://ojolabs.com)  
