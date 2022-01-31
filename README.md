@@ -151,10 +151,11 @@ Dnipro, Ukraine
 Aug 2005 - Nov 2010
 #### Project: Private Education
 #### Key Deliverables:
+* Lead Networking and Systems Administration direction;
 * Systems administration and networking trainings;
 * Cisco Academy courses;
 * Microsoft IT Academy training;
-* On-line courses developing.
+* Online courses developing.
 
 #### Tools and technologies:
 Cisco Appliances, Microsoft Windows, Linux, etc.
