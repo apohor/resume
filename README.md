@@ -56,8 +56,7 @@ Jun 2019 - May 2020
 * Build, mentor and guide DevOps team;
 * Infrastructure performace improvements;
 * Secrets management solution design;
-* Infrastructure change promotion redesign;
-* Infrastructure monitoring implementation;
+* Infrastructure change promotion and monitoring redesign;
 * CI/CD pipeline design and implementation;
 * Database sharding with Vitess.
 
@@ -73,8 +72,7 @@ Sep 2018 - Jun 2019
 * Estimation and scope decomposition;
 * Risk assessment, defining dependencies and assumptions;
 * Technical specifications and architecture vision document creation;
-* Technology assessments and comparisons;
-* Participation in discovery phases and workshops covering.
+* Participation in discovery phases and workshops.
 
 #### Tools and technologies:
 GCP, Terraform, Kubernetes, Istio, Jenkins X, Helm, Vault
