@@ -5,7 +5,7 @@
 * e-mail: pogiant@gmail.com
 
 ## Summary
-Platform architect with strong infrastructure and cloud background. DevOps, SRE and cloud-native practices and principles believer, passionate leader that builds and guides teams to solve complex problems.
+Infrastucture/Platform engineer with strong infrastructure and cloud background. DevOps, SRE and cloud-native practices and principles believer, passionate leader that guides teams to solve complex problems.
 
 ## Education
 **Kyiv National Economics University**  
@@ -17,9 +17,24 @@ IT Courses
 Kyiv, Ukraine, Mar 2004 - Dec 2004  
 
 ## Experience
+### _Principal Infrastructure Engineer @ [Onward](https://thinkonward.com)  
+Austin, TX, USA  
+February 2020 - Present
+#### Project: Platform Infrastructure
+#### Key Deliverables:
+* Infrastructure re-design and application migration;
+* Monitoring design and implementation;
+* Best practices IaC implementation;
+* CI/CD infrastructure re-design;
+* Kubernetes clusters management.
+
+#### Tools and technologies:
+AWS, Kubernetes, Terraform, Helm, GitLab, Datadog, Python
+
+
 ### _Staff Infrastructure Engineer: TechLead_ @ [OJO Labs](https://ojolabs.com)  
 Austin, TX, USA  
-February 2020 - Current
+February 2020 - November 2023
 #### Project: Core Infrastructure
 #### Key Deliverables:
 * New core infrastructure design, buildup and migration;
@@ -30,7 +45,7 @@ February 2020 - Current
 * Kubernetes clusters management.
 
 #### Tools and technologies:
-AWS, Kubernetes, Terraform, Helm, GitLab, Datadog, Vault
+AWS, Kubernetes, Terraform, Helm, GitLab, Datadog, Vault, Kotlin
 
 
 ### _Sr. DevOps/SRE Engineer: AI Infrastructure_ @ [Intel Corporation](https://intel.com)  
