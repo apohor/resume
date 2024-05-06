@@ -17,7 +17,7 @@ IT Courses
 Kyiv, Ukraine, Mar 2004 - Dec 2004  
 
 ## Experience
-### _Principal Infrastructure Engineer_ @ [Onward](https://thinkonward.com)  
+### _Principal Infrastructure Engineer: Platform_ @ [Onward](https://thinkonward.com)  
 Austin, TX, USA  
 February 2020 - Present
 #### Project: Platform Infrastructure
@@ -48,7 +48,7 @@ February 2020 - November 2023
 AWS, Kubernetes, Terraform, Helm, GitLab, Datadog, Vault, Kotlin
 
 
-### _Sr. DevOps/SRE Engineer: AI Infrastructure_ @ [Intel Corporation](https://intel.com)  
+### _Sr. SRE Engineer: AI Infrastructure_ @ [Intel Corporation](https://intel.com)  
 Austin, TX, USA  
 May 2020 - February 2020
 #### Project: Scalable AI Cluster Buildup
