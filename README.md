@@ -5,7 +5,7 @@
 * e-mail: pogiant@gmail.com
 
 ## Summary
-Infrastucture/Platform engineer with strong infrastructure and cloud background. DevOps, SRE and cloud-native practices and principles believer, passionate leader that guides teams to solve complex problems.
+Infrastucture/Platform engineer with strong networking, infrastructure and cloud background. DevOps, SRE, cloud-native practices and principles believer.
 
 ## Education
 **Kyiv National Economics University**  
@@ -23,7 +23,7 @@ February 2020 - Present
 #### Project: Platform Infrastructure
 #### Key Deliverables:
 * Infrastructure re-design and application migration;
-* Monitoring design and implementation;
+* Observability and telemetry design and implementation;
 * Best practices IaC implementation;
 * CI/CD infrastructure re-design;
 * Kubernetes clusters management.
@@ -186,7 +186,7 @@ Aug 2004 - Nov 2005
 ## Skills
 ### Software Development Methodologies
 * Kanban, Agile, Scrum, XP
-* DevOps
+* DevOps, SRE, Platform Engineering
 
 ### Operating Systems
 * Microsoft Windows Server NT - 2008R2
@@ -194,51 +194,28 @@ Aug 2004 - Nov 2005
 * Solaris OS
 
 ### DevOps Tools
-* Core system services: LDAP, DNS, DHCP, WINS, FTP, Samba, NFS, Squid, Postfix, etc.
 * Networking: strong TCP/IP knowledge
-* Application services: Tomcat, Dropwizard
-* Security services: OpenVPN, VNC, OpenSwan, SSH, SSL, Vault
 * Virtualization platforms: Vmware, Hyper-V, Xen, Vserver
 * Security appliances: Cisco PIX, Cisco ASA, F5 LB
 * HA/Load balancing: F5 LB, HAProxy, Nginx, MysqlProxy, AWS ELBs
 * CI/CD: Jenkins, TeamCity, GitLab, CircleCI, Travis CI, Spinnaker, Jenkins X
-* Version Control: SVN, Git
 * Monitoring: Nagios, Zabbix, Datadog, New Relic, LightStep, Prometheus
 * Automation: Puppet, Salt, Ansible
-* Orchestration: Rundeck, MCollective
 * Containers: Docker, Kubernetes, Helm, Kustomize, CoreOS Rkt
-* IaaC: AWS CloudFormation, Terraform
+* IaC: AWS CloudFormation, Terraform, Crossplane
 * Service Mesh: Linkerd, Istio, Kuma
 * API Gateways: Kong, Apigee, AWS API Gateway
 * Log management and analysis: Rsyslog, Splunk, Sumo Logic, Elastic Stack
 * AWS Cloud: EC2, VPC, S3, CloudFormation, CloudWatch, SNS, SQS, Route53, ECS, RDS, EMR, DataPipeline, CodeDeploy, Lambda
 * Google Cloud: Compute Engine, App Engine, Kubernetes Engine, Cloud Storage, Cloud Datastore, Stackdriver
 * Search Engines: Solr, Elasticsearch
-* Discovery services: Consul, Etcd, Zookeeper
 * Big Data Tools: Kafka, Storm, Spark, Hadoop, Hive
 * Bare Metal Automation: MaaS, Juju, MetalLB
 
-### Databases
-* MS SQL Server 2000/2005
-* MySQL
-* PostgreSQL
-* Cassandra
-* MongoDB
-* Redis
-
-### Languages
-### Scripting
-* Bash/Python/Ruby
-
-### Debugging
-* Java/Scala/Go/JS/PHP
 
 ## Certificates
 [Software Architecture Principles and Practices](https://github.com/apogoryelyi/cv/blob/master/certificates/SAPP_Completion%20Certificate%20v1.pdf)   
 SEI SAPP, Carnegie Mellon University, Jul 2019  
-<img src="logos/sei.png" height="96">  
-[Documenting Software Architectures](https://github.com/apogoryelyi/cv/blob/master/certificates/SEI_DSA_Completion%20Certificate%20v1.pdf)  
-SEI DSA, Carnegie Mellon University, Aug 2019  
 <img src="logos/sei.png" height="96">  
 [Google Cloud Certified Cloud Architect - Professional](https://github.com/apogoryelyi/cv/blob/master/certificates/GCP.pdf)  
 Google Cloud, License 11592441, May 2018  
@@ -246,41 +223,12 @@ Google Cloud, License 11592441, May 2018
 [AWS Certified Solutions Architect - Associate](https://github.com/apogoryelyi/cv/blob/master/certificates/ASAA.pdf)  
 Amazon License AWS-ASA-4813, November 2014  
 <img src="logos/asaa.png" height="96">  
-[Novell Certified Linux Administrator](https://github.com/apogoryelyi/cv/blob/master/certificates/NCLA.png)  
-Novell, November 2009  
-<img src="logos/ncla.jpg" height="96">  
 [Cisco Certified Network Professional](https://github.com/apogoryelyi/cv/blob/master/certificates/CCNP.png)  
 Cisco, License 403670571638ILBF, November 2009  
 <img src="logos/ccnp.png" height="96">  
-[Kerio Certified Technical Professional](https://github.com/apogoryelyi/cv/blob/master/certificates/KCTP-KWF.png)  
-Kerio Technologies, July 2011  
-<img src="logos/kctp.png" height="96">  
 [Microsoft Certified Solutions Associate](https://github.com/apogoryelyi/cv/blob/master/certificates/MCSolA.pdf)  
 Microsoft, April 2012  
 <img src="logos/mcsassociate.jpg" height="96">  
-[Microsoft Certified Systems Administrator - Security](https://github.com/apogoryelyi/cv/blob/master/certificates/MCSA-Security.png)  
-Microsoft ,November 2008  
-<img src="logos/mcsa_sec.jpg" height="96">  
-[Programming for Everybody (Python)](https://github.com/apogoryelyi/cv/blob/master/certificates/CPL.pdf)  
-Coursera, December 2014  
-<img src="logos/python.png" height="96">  
-[Spark - Level 2](https://github.com/apogoryelyi/cv/blob/master/certificates/BD0212EN.pdf)  
-Big Data University, December 2016  
-<img src="logos/spark2.png" height="96">  
 [HashiCorp Certified: Terraform Associate](https://www.youracclaim.com/badges/ee4a680e-affd-4127-a3c7-547a8171b059)  
 HashiCorp, September 2019  
 <img src="logos/hashicorp-certified-terraform-associate.png" height="96">  
-
-## Honors and Awards
-### Best Speaker @ [Pacemaker: Ops Conference](http://www.pacemaker.in.ua/OPS-2012/about)
-Softserve, Dec 2012
-### Best Speaker @ [Pacemaker: Cloud Conference](http://www.pacemaker.in.ua/Cloud-2013/about)
-Softserve, Nov 2013
-### B: Heroic Award
-Bazaarvoice, Award for a great performance, Oct 2014  
-### Hackathon 2016 Best Project
-R&D Hackathon, Best Project, Dec 2016
-### Software Architecture Award - 2018
-Softserve, Unit A3, Dec 2018
-### Software Architecture Award - 2019
-Softserve, Unit A3, Dec 2019
