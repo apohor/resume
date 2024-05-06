@@ -17,7 +17,7 @@ IT Courses
 Kyiv, Ukraine, Mar 2004 - Dec 2004  
 
 ## Experience
-### _Principal Infrastructure Engineer @ [Onward](https://thinkonward.com)  
+### _Principal Infrastructure Engineer_ @ [Onward](https://thinkonward.com)  
 Austin, TX, USA  
 February 2020 - Present
 #### Project: Platform Infrastructure
