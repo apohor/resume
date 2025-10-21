@@ -1,6 +1,6 @@
 # Anton Pohorilyi
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/apogoryelyi/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)](https://github.com/apogoryelyi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/apohor/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)](https://github.com/apohor)
 
 > *Principal Infrastructure Engineer specializing in cloud-native architecture and platform engineering*
 
@@ -67,7 +67,7 @@ Infrastructure/Platform Engineer with 15+ years of experience in designing, buil
 ### _Staff Infrastructure Engineer: TechLead_ @ [OJO Labs](https://ojolabs.com)
 **Austin, TX, USA | February 2020 - November 2023**
 
-<details>
+<details open>
 <summary><strong>Project: Core Infrastructure</strong></summary>
 
 **Key Deliverables:**
@@ -85,7 +85,7 @@ Infrastructure/Platform Engineer with 15+ years of experience in designing, buil
 ### _Sr. SRE Engineer: AI Infrastructure_ @ [Intel Corporation](https://intel.com)
 **Austin, TX, USA | May 2019 - February 2020**
 
-<details>
+<details open>
 <summary><strong>Project: Scalable AI Cluster Buildup</strong></summary>
 
 **Key Deliverables:**
